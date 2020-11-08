@@ -1,0 +1,60 @@
+Inteligencia de Codigo Abierto 
+Manual de herramientas y recursos
+2020
+Aleksandra Bielska
+Noa Rebecca Kurz, Yves Baumgartner, Vytenis Benetis
+
+Prefacio
+Estoy muy complacida de compartir con ustedes la edición 2020 de OSINT Manual de Herramientas
+y Recursos. Una vez más, el manual fue revisado y actualizado para reflejar la evolución de 
+esta disciplina y sus muchas estrategias, los desafios tecnicos y operativos que los 
+practicantes OSINT tienen que afrontar.
+Dada la velocidad de los cambios en la web, algunos podrían cuestionar la decisión de reunir 
+tal recurso. Que esta mal con el Top 10 de herramientas o el Top 100?. Después de todo hay 
+demasiados recursos como para marcar uno solo como favorito. Tales argumentos no carecen de merito.
+Mi temor, como sea, es que no sean tomados en cuenta. Yo te ofrezco cuatro raones.
+
+Para empezar, una lista corta traicionaria el amplio espectro de uso de las practicas OSINT.
+Mientras OSINT fue alguna vez de dominio exclusivo de los analistas en seguridad nacional, ahora
+es adoptado por una clase en crecimiento de profionales en diversos campos como periodismo, 
+ciberseguridad, investigación de inversiones, manejo de crisis y derechos humanos. Una herramienta 
+limitada nunca podra satisfacer todos estos grupos.
+
+Segundo, un buen practicante OSINT es alguien quien se siente comodo trabajando con diferentes 
+herramientas, fuentes y estrategias de recolección. La tentación de estrechar la especialización
+en OSINT es algo a lo que hay que resistirse. ¿Por que? Por que ninguna tarea de investigación es
+tan ordenada como los requisitos del cliente sugieren.
+
+Tercero, es inevitable darse cuenta que un buen conocimiento de una herramienta es equivalente
+a una buena fuente de conocimiento. En efecto, la herramienta correcta puede determinar si se 
+recopila la información correcta. Esto se traduce a que cuantas más herramientas tengas en tu 
+portafolio, es mas probable que sus capacidades en OSINT sean más flexibles.
+
+Finalmente, el proceso de compilar este manual es un ejercicio de inteligencia por si mismo, 
+alertandonos de donde estamos como comunidad y los desafios que probablemente enfrentaremos en
+el futuro, entre los cuales se encuentra la desinformación, el rompimiento del internet,
+la proliferación de redes sociales de nicho y la urgente necesidad de mejores herramientas para
+monitorear y analizar el contenido que nos proveen.
+
+Esperamos que este manual ayude a cubrir cualquier brecha en su colección y te informe sobre las 
+diferentes herramientas y recursos que puedes consultar para una mejor inteligencia, incluida en 
+disciplina de OSINT. Por supuesto, este manual no pretende ser la definitivo. Algo nuevo puede
+aparecer sin duda el día de mañana y sospecho que hay ciento de herramientas que aun no hemos visto.
+Con tu ayuda, podemos abordar cualquier omision.
+En cualquier caso, se aplican las advertencias habituales. Mientras que cada esfuerzo fue hecho
+para probar y validar estos recursos, advertimos que las maravillosas herramientas de hoy, pueden 
+ser el riesgo del mañana. Así, siempre que se prueben un nuevo script, aplicación o extensión del 
+navegador, por favor hagalo en un entorno seguro para minimizar el riesgo de sus bienes u operación.
+
+Me gustaría agradecer a mis colegas de i-intelligence por sus esfuerzos en la compilación de este manual.
+Mucho del credito le pertenece a Aleksandra Bielska quien, como nuestra jefa de entrenamiento, evaluo
+cientos de herramientas cada año para determinar cuales se incluyen en nuestros cursos.
+Tambien estoy en deuda con Yves Baumgartner y Vytenis Benetis por actualizarnos rutinariamenteen nuevas soluciones.
+ Gracias tambien a Noa Kurz quien trabajo incansablemente todo el verano para ayudarno a tener este 
+ documento listo.
+ Termino reconociendo las contribuciones de los muchos estudiantes, practicantes y seguidores de Twitter
+ con los que he interactuado a lo largo de dos años. Su generosidad, percepciones, recomendaciones y apoyo
+ es muy apreciado.
+ Chris Pallaris
+ Director, i-intelligence GmbH
+ 
